@@ -1,6 +1,6 @@
 {
   "name": "write-any-file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Write to any file you want in any format.",
   "main": "index.js",
   "files": [
