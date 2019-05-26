@@ -1,4 +1,3 @@
-import writeFile = require('write-any-file');
 declare namespace writeFile {
   function sync(data: any, location: string): void;
 }
